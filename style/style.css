@@ -1,0 +1,37 @@
+div{
+    outline: 2px solid black;
+}
+.box{
+     margin: 10px auto;
+     width: 1200px;
+     background: burlywood;
+     text-align: justify; 
+     font-size:35px;         
+}
+.cell400{
+    width: 400px;
+    display: table-cell;
+}
+.cell800{
+    width: 800px;
+    display: table-cell;
+}
+.box2{
+    margin: 10px auto;
+    width: 1200px;
+    background: rgb(46, 246, 203);
+    text-align: justify;
+}
+.in_b{
+    font-size: 0;
+}  
+.block1{
+    font-size: 40px;
+    width: 400px;
+    display: inline-block;
+} 
+.block2{
+    font-size: 40px;
+    width: 800px;
+    display: inline-block;
+}         
